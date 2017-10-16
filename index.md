@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 海阔凭鱼跃，天高任鸟飞
 
 You can use the [editor on GitHub](https://github.com/mintery/mintery.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
